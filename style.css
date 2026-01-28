@@ -1,0 +1,10 @@
+#title {
+    outline-width: thick;
+    outline-style: dotted;
+    outline-color: blue;
+    font-size: 200px;
+    font-family: monospace;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
